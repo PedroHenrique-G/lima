@@ -1,0 +1,11 @@
+body{
+
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    background-image: url(./papel\ envelhecido.jpg);
+    background-color: rgb(198, 184, 157);
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-size: cover;*/
+    background-size: 2000px 2000px;
+    background-attachment: fixed;
+}
